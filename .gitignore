@@ -218,3 +218,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+.pio/
+build/
+.env
+*.pem
+*.key
+node_modules/
